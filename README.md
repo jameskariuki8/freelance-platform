@@ -258,8 +258,15 @@ Replace the placeholders with the actual values specific to your project.
 
 Visit your domain or server IP address in a web browser to access the deployed application.
 
-## Authors
-This exceptional project was expertly developed by
+## 🌍 About Me
+
   - James Kariuki
+  🌐 [My Portfolio](https://james-kariuki.xyz)
+  🔗 [Connect on LinkedIn](https://linkedin.com/in/james-kariuki-)
+  📞 [Phone: +254 797394442](tel: +254 797394442)
+
+
+
+
 
 
