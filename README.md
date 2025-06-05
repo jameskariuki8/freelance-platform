@@ -262,6 +262,4 @@ Visit your domain or server IP address in a web browser to access the deployed a
 This exceptional project was expertly developed by
   - James Kariuki
 
-collaborated under the invaluable guidance of Professor:
-  - Mr. Lotfi Elaachak
 
